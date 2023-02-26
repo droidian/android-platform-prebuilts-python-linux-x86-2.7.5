@@ -1,0 +1,4 @@
+bin /opt/android/prebuilts/python/2.7.5/
+include /opt/android/prebuilts/python/2.7.5/
+lib /opt/android/prebuilts/python/2.7.5/
+share /opt/android/prebuilts/python/2.7.5/

@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_strip:
+
+# FIXME
+override_dh_shlibdeps:
